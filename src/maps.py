@@ -1,6 +1,3 @@
-from ursina import *
-
-
 class Maps:
     def __init__(self):
         self.walls = [["0000000111",
